@@ -1,0 +1,15 @@
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/service/UserServiceTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/MessageRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/service/NotificationServiceTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/NotificationRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/ImagesRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/controller/AuthRestControllerTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/service/MapMarkerServiceTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/controller/MapRestControllerTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/ConnectionRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/IssueRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/service/MessageServiceTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/UsersRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/MapMarkersRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/repository/RecoveryTokenRepositoryTest.java
+/home/mchih/Retraining/pr/Geocit134/src/test/java/com/softserveinc/geocitizen/controller/UsersRestControllerTest.java
